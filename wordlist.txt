@@ -3,6 +3,7 @@ babylon
 be
 beach
 bob
+book
 burning
 california
 careful
@@ -15,6 +16,7 @@ downpressor
 ear
 easy
 eye
+faith
 false
 fire
 flare
@@ -32,6 +34,7 @@ healing
 help
 his imperial magesty
 hold
+hope
 hot
 humanity
 irie
@@ -52,26 +55,32 @@ mouth
 nah
 now
 peace
+philosophy
 poor
 power
+pray
 progress
 prophet
 quick
 rags
 riches
 save
+science
 see
 selassie
 slavery
 space
 sufferation
+tao
 tight
 time
 true
 tubby
 understanding
+upset
 vampire
 wah gwan
+way
 winter
 wisdom
 world
